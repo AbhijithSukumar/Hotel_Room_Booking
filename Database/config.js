@@ -1,0 +1,1 @@
+export const base_url='mongodb+srv://poojamohan:PoojaAbhi@cluster0.ipbl9bk.mongodb.net/?retryWrites=true&w=majority'
